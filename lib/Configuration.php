@@ -16,7 +16,7 @@ class Configuration
     
     protected $password = '';
     
-    protected $host = 'https://services.circulodecredito.com.pe/v1/chapacash';
+    protected $host = '';
     
     protected $userAgent = 'CalificaChapacashClientPhp-Codegen/1.0.0/php';
     

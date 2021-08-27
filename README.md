@@ -44,7 +44,7 @@ Al iniciar sesión seguir los siguientes pasos:
 
 ### Paso 2. Capturar los datos de la petición
 
-Los siguientes datos a modificar se encuentran en ***test/Api/ApiTest.php***
+Los siguientes datos a modificar se encuentran en ***test/Api/CalificaApiTest.php***
 
 Es importante contar con el setUp() que se encargará de inicializar la url. Modificar la URL ***('the_url')*** de la petición del objeto ***$config***, como se muestra en el siguiente fragmento de código:
 
